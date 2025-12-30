@@ -20,7 +20,7 @@ Welcome to my professional portfolio! I am a data-driven professional based in *
 ## 🎓 Global Certifications
 * **One Million Prompters:** Government of Dubai (Dubai Future Foundation).
 * **Data Analytics Foundations:** IBM & Microsoft.
-* **Engineering Degree:** Royal Engineering College & Technologies.
+* **Engineering Degree:** APJ Abdul Kalam Technological University.
 
 ---
 
